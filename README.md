@@ -32,16 +32,20 @@ He desarrollado soluciones digitales reales para clientes locales y proyectos pe
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerekali2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerekali2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jerekali2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerekali2005&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 Conectemos
 <p align="left">
-<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremias Kaliroff" height="30" width="40" /></a>
-<a href="mailto:tu-email@ejemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jeremiaskaliroff@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
