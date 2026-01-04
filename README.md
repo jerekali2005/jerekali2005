@@ -33,8 +33,7 @@ He desarrollado soluciones digitales reales para clientes locales y proyectos pe
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jerekali2005&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jerekali2005&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerekali2005&theme=tokyonight&show_icons=true" /></p>
 
 ---
 
