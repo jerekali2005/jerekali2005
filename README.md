@@ -2,7 +2,7 @@
 
 ### 🚀 Front-End Developer | Engineering Student | Co-Founder at TechFix Agency
 
-He desarrollado soluciones digitales reales para clientes locales y proyectos personales de alto impacto. Me apasiona crear interfaces modernas, rápidas y con una estética impecable.
+He desarrollado soluciones digitales reales para clientes locales y proyectos personales de alto impacto. Me apasiona crear interfaces modernas, rápidas y entender la ingeniería detrás del código, desde el navegador hasta el servidor.
 
 ---
 
@@ -12,21 +12,28 @@ He desarrollado soluciones digitales reales para clientes locales y proyectos pe
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Proyectos Destacados
 
+* **[FreenkTree](https://freenk-tree.vercel.app/)**: Clon de LinkTree full-stack desarrollado con **React, Tailwind y Supabase**. Gestión de base de datos en tiempo real y deploy en Vercel.
+* **[Simple C Server](https://github.com/jerekali2005/NOMBRE-DE-TU-REPO-C)**: Servidor Web HTTP 1.1 programado desde cero en **C** utilizando Sockets, manejo de memoria y manipulación de archivos a bajo nivel.
 * **[TechFix Agency](https://github.com/jerekali2005/TechFix)**: Sitio oficial de mi agencia de servicios digitales.
 * **[OneFormula F1](https://github.com/jerekali2005/OneFormula)**: Plataforma informativa dinámica con integración de datos de F1.
 * **[Marmolería San Justo](https://github.com/jerekali2005/Marmoleria-San-Justo---Web)**: Catálogo digital profesional para cliente del rubro construcción.
-* **[Local Restaurant](https://github.com/jerekali2005/Restaurant-Landing)**: Landing page gastronómica con menú interactivo.
 
 ---
 
